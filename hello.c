@@ -2,7 +2,6 @@
 
 int main()
 {
-	printf("hello my dear");
-	printf("hello my dear");
+	printf("hello my name is www");
 	return(0);
 }
